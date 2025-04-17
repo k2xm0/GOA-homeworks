@@ -1,0 +1,1 @@
+print("grigol todua")
